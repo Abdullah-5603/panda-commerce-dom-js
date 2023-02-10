@@ -11,3 +11,11 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
+.submit-btn{
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 40%, rgba(0,212,255,1) 100%); 
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
